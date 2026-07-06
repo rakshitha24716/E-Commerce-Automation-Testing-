@@ -22,7 +22,7 @@ SHIPPING_ADDRESS = {
     'phone': '9876543210'
 }
 
-SEARCH_KEYWORDS = ['Blue Top', 'Stylish Dress', 'Cotton Dress']
+SEARCH_KEYWORDS = ['Blue Top', 'Stylish Dress', 'Winter Top']
 
 BASE_URL = 'https://www.automationexercise.com'
 PRODUCTS_URL = 'https://www.automationexercise.com/products'
